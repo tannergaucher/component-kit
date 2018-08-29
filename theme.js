@@ -1,4 +1,7 @@
 const theme = {
+  //breaking
+  // @media screen and (min-width: 32px)
+  //width: 50%;
   breakpoints: [32, 48, 64, 80],
   space: [0, 4, 8, 16, 32, 64, 128],
   fonts: {

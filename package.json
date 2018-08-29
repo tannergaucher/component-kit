@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@compositor/kit": "^1.0.20",
+    "rebass": "^2.1.0",
     "standard-components": "^1.0.0-2"
   },
   "version": "1.0.0"
